@@ -1,4 +1,8 @@
 # Creating a Repo
+The process outlined here is also explained in the following videos:
+- [Creating a repo within GitHub](https://youtu.be/RZrp5nrgqMM)
+- [Creating a repo outside of GitHub and Pushing to GitHub](https://youtu.be/z8asKCDCix0)
+
 7. Make your first repo on GitHub
     - Either in the organization or your own personal account
 8. Create some practice assignments via GitHub Classroom
